@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+API_keys
+*.log
+.ipynb_checkpoints
+/.venv
+/venv
+/env
+node_modules
+.DS_Store
+Thumbs.db
+outputs/figures/*
+outputs/reports/*
+!outputs/figures/.gitkeep
+!outputs/reports/.gitkeep
