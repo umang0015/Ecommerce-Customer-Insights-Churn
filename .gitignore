@@ -2,6 +2,8 @@ __pycache__/
 *.pyc
 *.pyo
 .env
+.env.local
+.secrets
 API_keys
 *.log
 .ipynb_checkpoints
@@ -16,3 +18,5 @@ outputs/reports/*
 !outputs/figures/.gitkeep
 !outputs/reports/.gitkeep
 build_notebook.py
+.streamlit/secrets.toml
+__pycache__/
